@@ -8,10 +8,10 @@ This repository contains a data‐driven analysis of NYSE-listed companies’ fi
 
 ---
 
-#3 Files
+## Files
 - fundamentals.csv
 - securities.csv
-- prices-split-adjusted.csv # optional if you include price feature
+- prices.csv # optional if you include price feature
 - NYSE_Fundamentals_Clustering_Analysis.ipynb
 
 ---
